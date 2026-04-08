@@ -10,7 +10,7 @@
 ---
 
 ##  Live Demo
-[NaijaBank Analytics on Streamlit Cloud](https://naijabank-analytics.streamlit.app)
+[NaijaBank Analytics on Streamlit Cloud](https://naijabank-analytics-hqryysvpstckcxpdx6gqrv.streamlit.app/)
 
 ---
 
